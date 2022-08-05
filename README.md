@@ -151,7 +151,6 @@ there is no such sweet or if there is an ownership problem, then an appropriate 
 must be returned. As always, all the details must be displayed in both client and server GUIs.  
 As in the step 1 and 2, all of the operations must be clearly shown on the client and server   
 GUIs.   
-For programming rules and submission specifications, please read the corresponding sections   
-at the end of this document.   
+ 
 ------------------ End of Step 3 ----------------------  
 
