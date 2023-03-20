@@ -1,7 +1,4 @@
-# CS408-ComputerNetworks
-
-In this repo there is a primitive root calculation and a rsa crypto calculation (except calculation of d, that was done in a higher python version d = pow(e, -1,phi)
-bc the present version in colab didn't supoort reverse power operations) and also a whole application of Switter, information below.  
+# CS408-ComputerNetworks 
   
   
 #Switter  
